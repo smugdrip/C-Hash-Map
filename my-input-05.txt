@@ -1,0 +1,4 @@
+set 1 5
+set 101 5
+remove 1
+remove 101

@@ -1,0 +1,4 @@
+set
+set abc 5
+set "abc" abc
+set 1 2 3

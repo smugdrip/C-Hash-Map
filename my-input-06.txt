@@ -1,0 +1,26 @@
+set 1 "abc"
+set 1 "xyz"
+set "abc" 5
+set "xyz" 5
+set 1 5
+set 2 5
+get 1
+get "abc"
+set "xyz" 10
+remove "xyz"
+set "abc" 1
+set "abc" "xyz"
+set "key" 5
+set 5 "key"
+get "key"
+get 5
+remove 5
+remove "key"
+set 123 456
+set "123" "some string"
+get 123
+set 3 "abc"
+set 103 5
+set "F" 5
+set "A" 5
+get "F"
